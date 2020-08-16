@@ -12,7 +12,7 @@
 
 ## Project Description
 
-The project aims to create a data science platform that is custom made for the airlines. This concept focuses on allowing airlines to use ready-made use cases based on common airline topics, while flexible to add new use cases. Evaluation is also a main section and allows the airline to compare models and use cases. The end output concept is to incorporate a ready-made presentation side that complies all major steps taken to get results, which can be used in professional presentations.
+The project aims to parse online pdf approach plates from flightaware. The goal was to get the angle/TCH values from the apporaches for specifed airports to determin the approach path max and min ranges for each type of approach.
 
 ## To do list:
 - [x] make search as a parameter
